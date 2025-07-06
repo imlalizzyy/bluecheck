@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "546387859312",
+    "project_id": "bluecheck25-13d39",
+    "storage_bucket": "bluecheck25-13d39.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546387859312:android:70129ea716dffa070ae1b5",
+        "android_client_info": {
+          "package_name": "com.example.bluecheck"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASq1Ov_8g4dNUd0mUxnZ-35yOQes3F6O0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
